@@ -24,17 +24,23 @@
 <p align="center"><a href="https://github.com/Kangsad01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasyaganz&theme=radical&layout=compact"></a></p>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
+### Repo Stats 🔭
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Kangsad01&repo=Wabot-Tsb01&theme=dark)
+
+
 <details>
-<summary>&#127942 <b>GitHub Awards</b></summary><br/>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Kangsad01)
 
 </details>
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
 ![Metrics](https://metrics.lecoq.io/Kangsad01?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2Fsurabaya)
 
-</details>
+</details> 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Kangsad01)
 
