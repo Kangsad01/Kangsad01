@@ -45,3 +45,11 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Kangsad01)
 
 ---
+
+
+
+<h3 align="left">Visitor</h3>
+<p align="center">
+<img src="https://count.caliphdev.my.id/get/@Kangsad01?theme=rule34" alt="visitor.svg">
+</p>
+
