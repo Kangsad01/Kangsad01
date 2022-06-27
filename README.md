@@ -13,7 +13,7 @@
 </p>
 
 ## Contact Me!
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/380967660551)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895336282144)
 
 ### Sosial Media
 [![YouTube](https://img.shields.io/badge/THE.SAD.BOY01-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCVv3wC5Q7_juw-d9HepjpOQ)
