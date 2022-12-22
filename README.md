@@ -5,6 +5,11 @@
 
 <div align="center">
 
+<h3 align="left">Visitor</h3>
+<p align="center">
+<img src="https://count.caliphdev.my.id/get/@Kangsad01?theme=rule34" alt="visitor.svg">
+</p>
+
 ---
 ## Hello, Im [The.sad.boy01](https://instagram.com/the.sad.boy01) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
 
