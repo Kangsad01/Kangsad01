@@ -7,7 +7,7 @@
 
 <h3 align="left">Visitor</h3>
 <p align="center">
-<img src="https://count.getloli.com/get/@Kangsad01?theme=rule34" alt="visitor.svg">
+<img src="https://count.getloli.com/get/@:name?theme=rule34" alt="visitor.svg">
 </p>
 
 ---
